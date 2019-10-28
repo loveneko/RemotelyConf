@@ -1,4 +1,4 @@
-let phone =1181357502;//填入电话号码
+let phone =11813575;//填入电话号码
 let url = "https://mina.10010.com/wxapplet/bind/getIndexData/alipay/alipaymini?user_id="+phone;
 $httpClient.get(url,function (error, response, data) {
     if(!error){
