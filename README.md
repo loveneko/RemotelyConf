@@ -1,2 +1,2 @@
 # -RemotelyConf
-远程配置文件
+<blod>远程配置文件</blod>
